@@ -45,5 +45,3 @@
 </p>
 OR <br />
 reach me at 📧 *sahilmalik15.sm@gmail.com*
-
-this is my git readme
