@@ -38,10 +38,10 @@
 <p align="left">
     <a href="https://x.com/msdev588369" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="sahil_malik04" height="30" width="40" /></a>
+            alt="sahil_malik04" height="30" width="40" target="_blank" /></a>
     <a href="https://www.linkedin.com/in/sahil-malik04/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/sahil-malik04/" height="30" width="40" /></a>
+            alt="https://www.linkedin.com/in/sahil-malik04/" height="30" width="40" target="_blank" /></a>
 </p>
 OR <br />
 reach me at 📧 *sahilmalik15.sm@gmail.com*
