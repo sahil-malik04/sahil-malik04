@@ -27,8 +27,7 @@
     <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" style="max-width: 100%;"></a></code>
     <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;"></a></code>
     <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a></code>
-</p>        
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-malik04&show_icons=true&locale=en&layout=compact" alt="sahil-malik04" /></p>
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-malik04&show_icons=true&locale=en" alt="sahil-malik04" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-malik04&" alt="sahil-malik04" /></p>
 <p align="left"> <img
