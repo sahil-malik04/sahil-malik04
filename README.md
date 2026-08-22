@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/sahil-malik04/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/msdev588369">
+  <a href="https://x.com/s_malik0001">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:sahilmalik15.sm@gmail.com">
