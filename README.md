@@ -54,11 +54,11 @@ I enjoy solving engineering problems around **scalability, distributed systems, 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,redis&perline=6" width="330" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,redis&perline=6" width="250" />
 </p>
 
 ### Cloud & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,kafka,git,github&perline=6" width="330" />
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,kafka,git,github&perline=6" width="250" />
 </p>
