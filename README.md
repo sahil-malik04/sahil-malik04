@@ -1,26 +1,105 @@
-<h2>Hi there👋, I'm Sahil Malik</h2>
-<h4>A passionate Software Engineer from India</h4>
-<figure>
-    <figcaption>`Hot heads and cold hearts never solved anything` ♠️ </figcaption>
-</figure>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/f822aa7e36412e57d81df97949ded07c1ead4ed35fdfeafa0d8988cbfb000752/68747470733a2f2f6769746875622d726561646d652d7374617">
-    </a>
+<div align="center">
+
+# 👋 Hi, I'm Sahil Malik
+
+### Software Engineer II · Full-Stack Engineer
+
+Building scalable applications, backend systems & cloud infrastructure.
+
+<p>
+  <a href="https://www.linkedin.com/in/sahil-malik04/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/msdev588369">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:sahilmalik15.sm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-malik04&show_icons=true&locale=en" alt="sahil-malik04" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-malik04&" alt="sahil-malik04" /></p>
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=sahil-malik04&label=Profile%20views&color=0e75b6&style=flat"
-        alt="sahil-malik04" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://x.com/msdev588369" target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="sahil_malik04" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/sahil-malik04/" target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/sahil-malik04/" height="30" width="40" /></a>
-</p>
-OR <br />
-reach me at 📧 *sahilmalik15.sm@gmail.com*
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Software Engineer with **4+ years of experience** building production-grade web applications, backend services, and cloud-based systems.
+
+- 🏗️ Designing scalable backend architectures
+- ⚡ Building high-performance APIs & real-time systems
+- 🔄 Working with microservices & event-driven architecture
+- ☁️ AWS & cloud infrastructure
+- 🛒 Built production platforms serving **40,000+ active users**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`TypeScript` `JavaScript` `C++`
+
+**Frontend**
+
+`React` `Next.js` `Redux` `Tailwind CSS`
+
+**Backend**
+
+`Node.js` `Express.js` `REST APIs`
+
+**Databases**
+
+`PostgreSQL` `MongoDB` `MySQL` `Redis`
+
+**Architecture & Messaging**
+
+`Microservices` `Kafka` `Event-Driven Architecture` `WebSockets`
+
+**Cloud & DevOps**
+
+`AWS` `Docker` `Nginx` `GitHub Actions`
+
+---
+
+## 🚀 Featured Work
+
+### 🛒 LaFetch
+
+Production-grade e-commerce platform supporting **40,000+ active users**.
+
+**Built around:**
+
+`React` · `Node.js` · `TypeScript` · `PostgreSQL` · `AWS` · `Redis`
+
+Focused on scalable APIs, authentication, payments, shipping integrations, database design and cloud deployment.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahil-malik04&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-malik04&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sahil-malik04/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://x.com/msdev588369">X</a>
+&nbsp; · &nbsp;
+<a href="mailto:sahilmalik15.sm@gmail.com">Email</a>
+
+<br><br>
+
+<i>Building systems, not just features. ⚡</i>
+
+</div>
