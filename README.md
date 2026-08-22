@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/sahil-malik04/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="50" height="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/msdev588369">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -42,7 +42,7 @@ I enjoy solving engineering problems around **scalability, distributed systems, 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,cpp" />
+<img src="https://skillicons.dev/icons?i=ts,js,cpp" width="50" height="50" />
 </p>
 
 ### Frontend
