@@ -34,7 +34,6 @@ I enjoy solving engineering problems around **scalability, distributed systems, 
 - 🔄 Most of my backend work revolves around what happens **between services**, not just inside them
 - ⚙️ Comfortable taking a feature from **database design → API → infrastructure → production**
 - 🛠️ I care about the boring engineering details — failure handling, retries, race conditions, observability and performance
-- 🧠 Currently exploring how systems behave when **one service, database or dependency inevitably fails**
 
 ---
 
