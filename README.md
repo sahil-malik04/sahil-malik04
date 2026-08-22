@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Designing+Distributed+Architectures;Full-Stack+%7C+Cloud+%7C+Microservices;Turning+Ideas+Into+Production+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer;Problem+Solver;Designing+Scalable+Systems;Web+%26+Mobile+Platforms" />
 
 <br/>
 
@@ -30,11 +30,11 @@
 
 I enjoy solving engineering problems around **scalability, distributed systems, real-time communication and system architecture**.
 
-- 🚀 Built platforms serving **40,000+ active users**
-- 🏗️ Experience with **microservices & event-driven architecture**
-- ⚡ Building scalable APIs and real-time systems
-- ☁️ Working with **AWS & cloud infrastructure**
-- 🧠 Currently deepening my knowledge of **System Design & Distributed Systems**
+- 🧩 I like turning messy business workflows into clean, maintainable systems
+- 🔄 Most of my backend work revolves around what happens **between services**, not just inside them
+- ⚙️ Comfortable taking a feature from **database design → API → infrastructure → production**
+- 🛠️ I care about the boring engineering details — failure handling, retries, race conditions, observability and performance
+- 🧠 Currently exploring how systems behave when **one service, database or dependency inevitably fails**
 
 ---
 
@@ -63,22 +63,3 @@ I enjoy solving engineering problems around **scalability, distributed systems, 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,nginx,kafka,git,github" />
 </p>
-
----
-
-## 🚀 Featured Engineering
-
-### 🛒 LaFetch — E-Commerce Platform
-
-**Production platform serving 40,000+ active users**
-
-```text
-React
-  ↓
-Node.js + TypeScript
-  ↓
-REST APIs
-  ↓
-PostgreSQL + Redis
-  ↓
-AWS Infrastructure
