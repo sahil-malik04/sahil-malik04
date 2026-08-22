@@ -42,23 +42,23 @@ I enjoy solving engineering problems around **scalability, distributed systems, 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,cpp" width="100" height="100" />
+<img src="https://skillicons.dev/icons?i=ts,js,cpp&perline=3" width="165" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" width="100" height="100" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&perline=4" width="220" />
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,redis" width="100" height="100" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,redis&perline=6" width="330" />
 </p>
 
 ### Cloud & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,kafka,git,github" width="100" height="100" />
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,kafka,git,github&perline=6" width="330" />
 </p>
